@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "738281296463",
+    "project_id": "chango-f9c83",
+    "storage_bucket": "chango-f9c83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738281296463:android:e52180d487cc0eafd2503a",
+        "android_client_info": {
+          "package_name": "com.example.chango"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738281296463-clqvehrd7b52nrfrmo8fsf8781d82lch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6VKlt8bS3tira5eUOXIKbBSadeaLuMMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738281296463-clqvehrd7b52nrfrmo8fsf8781d82lch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
